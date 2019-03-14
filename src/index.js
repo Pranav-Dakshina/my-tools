@@ -1,8 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+
+// Bootstrap css
+import 'bootstrap/dist/css/bootstrap.min.css';
+// internally maintained
+import App from './components/App';
 import * as serviceWorker from './serviceWorker';
+import './index.scss';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
