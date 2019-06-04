@@ -5,7 +5,7 @@
   "homepage": "https://www.pranav-dakshina.com/",
   "dependencies": {
     "apollo-server-express": "^2.4.8",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "bootstrap": "^4.3.1",
